@@ -24,10 +24,12 @@ This exciting new project is expected to begin construction soon with spaces com
 
 ## Site Plan
 
-![Site Plan](/images/site_plan.png)
+(Click on the site plan for a pdf that can be zoomed for more detail.)
+
+[![Site Plan PDF](/images/site_plan.png)](/pdfs/site_plan.pdf)
 
 ## Vicinity Maps
 
-![Site Plan](/images/vicinity_map_1.png)
+![Vicinity Map](/images/vicinity_map_1.png)
 
-![Site Plan](/images/vicinity_map_2.png)
+![Vicinity Map](/images/vicinity_map_2.png)
