@@ -3,7 +3,7 @@ title: "Light Industrial Office Space for Rent"
 type: post
 date: 2023-07-27T08:59:27+01:00
 publishdate: 2023-07-27
-lastmod: 2023-07-27
+lastmod: 2023-08-04
 description: "Property description"
 tags:
   - For Rent
