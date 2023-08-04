@@ -1,0 +1,12 @@
+.card-body img {
+	width: 80%;
+	margin: 0 10%;
+}
+
+.card-body h2 {
+	margin-top: 1.5em;
+}
+
+.card-body h1#gateway-small-bay-industrial {
+	margin-top: 1.0em;
+}

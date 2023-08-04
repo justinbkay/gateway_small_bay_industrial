@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'Gateway Small Bay Industrial by Travis Kay'
+title = 'Gateway Small Bay Industrial - Comming Soon!'
 
 theme = 'bootstrap_bp_hugo'
 
@@ -22,31 +22,31 @@ canonifyurls = true
 paginate = 6
 
 [sitemap]
-    changefreq = "weekly"
-    priority = 0.5
+changefreq = "weekly"
+priority = 0.5
 
 [permalinks]
-    posts = "/:year/:month/:slug/"
-    post = "/:year/:month/:slug/"
-    pages = "/:slug/"
-    page = "/:slug/"
+posts = "/:year/:month/:slug/"
+post = "/:year/:month/:slug/"
+pages = "/:slug/"
+page = "/:slug/"
 
 [Author]
-  name = "Justin B. Kay"
+name = "Justin B. Kay"
 
 [params]
-  description = "For rent `industrial space`, `small bay industrial space`, `warehouse`, `small warehouse` in Mesa, Gilbert or Queen Creek Arizona"
-  # images = ["gateway_industrial_render.jpg"]
-  # showPostSummary = true
-  # startPageColumns = true
-  # showListsGrouped = true
-  alwaysExpandMenu = true
-  customDateFormat = "02/01/2006"
-  # hideReadingTime = true
-  themeColor="blue" # dark, light, blue, do not set for bootstrap default
-  # js=["/js/test_site.js"]
-  # css=["/css/test_site.css"]
-  # csscdn=["https://fonts.googleapis.com/css?family=Concert+One|Roboto&display=swap"]
+description = "For rent `industrial space`, `small bay industrial space`, `warehouse`, `small warehouse` in Mesa, Gilbert or Queen Creek Arizona"
+# images = ["gateway_industrial_render.jpg"]
+# showPostSummary = true
+# startPageColumns = true
+# showListsGrouped = true
+alwaysExpandMenu = true
+customDateFormat = "02/01/2006"
+# hideReadingTime = true
+themeColor = "light" # dark, light, blue, do not set for bootstrap default
+# js=["/js/test_site.js"]
+# css=["/css/test_site.css"]
+# csscdn=["https://fonts.googleapis.com/css?family=Concert+One|Roboto&display=swap"]
 
 
 #[languages]
@@ -66,76 +66,76 @@ paginate = 6
 # username unless otherwise noted.
 # Code from https://themes.gohugo.io/future-imperfect/ theme
 [social]
-  # Coding Communities
-  github           = ""
-  gitlab           = ""
-  stackoverflow    = "" # User Number
-  bitbucket        = ""
-  jsfiddle         = ""
-  codepen          = ""
-  # Visual Art Communities
-  deviantart       = ""
-  flickr           = ""
-  behance          = ""
-  dribbble         = ""
-  # Publishing Communities
-  wordpress        = ""
-  medium           = ""
-  # Professional/Business Oriented Communities
-  linkedin         = "traviskay"
-  linkedin_company = "olympus-construction-management"
-  foursquare       = ""
-  xing             = ""
-  slideshare       = ""
-  # Social Networks
-  facebook         = "travis.kay.9"
-  googleplus       = ""
-  reddit           = ""
-  quora            = ""
-  youtube          = ""
-  vimeo            = ""
-  whatsapp         = "" # WhatsApp Number
-  instagram        = ""
-  tumblr           = ""
-  twitter          = ""
-  skype            = ""
-  snapchat         = ""
-  pinterest        = ""
-  telegram         = ""
-  discord          = "" # invite link
-  # Email
-  email            = ""
+# Coding Communities
+github = ""
+gitlab = ""
+stackoverflow = "" # User Number
+bitbucket = ""
+jsfiddle = ""
+codepen = ""
+# Visual Art Communities
+deviantart = ""
+flickr = ""
+behance = ""
+dribbble = ""
+# Publishing Communities
+wordpress = ""
+medium = ""
+# Professional/Business Oriented Communities
+linkedin = "traviskay"
+linkedin_company = "olympus-construction-management"
+foursquare = ""
+xing = ""
+slideshare = ""
+# Social Networks
+facebook = "travis.kay.9"
+googleplus = ""
+reddit = ""
+quora = ""
+youtube = ""
+vimeo = ""
+whatsapp = ""             # WhatsApp Number
+instagram = ""
+tumblr = ""
+twitter = ""
+skype = ""
+snapchat = ""
+pinterest = ""
+telegram = ""
+discord = ""              # invite link
+# Email
+email = ""
 
 
 [menu]
 
-  # [[menu.main]]
-  #   identifier = "about"
-  #   name = "About"
-  #   url = "/about/"
-  #   weight = 10
-  #   pre = "<i class='fas fa-heart'></i>"
+# [[menu.main]]
+#   identifier = "about"
+#   name = "About"
+#   url = "/about/"
+#   weight = 10
+#   pre = "<i class='fas fa-heart'></i>"
 
-  # [[menu.footer]]
-  #   identifier = "about"
-  #   name = "About"
-  #   url = "/about/"
-  #   weight = 10
-  #   pre = "<i class='fas fa-address-card'></i>"
+# [[menu.footer]]
+#   identifier = "about"
+#   name = "About"
+#   url = "/about/"
+#   weight = 10
+#   pre = "<i class='fas fa-address-card'></i>"
 
-  # [[menu.footer]]
-  #   identifier = "categories"
-  #   name = "Categories"
-  #   url = "/categories/"
-  #   weight = 20
-  #   pre = "<i class='fas fa-folder'></i>"
+# [[menu.footer]]
+#   identifier = "categories"
+#   name = "Categories"
+#   url = "/categories/"
+#   weight = 20
+#   pre = "<i class='fas fa-folder'></i>"
 
-  [[menu.footer]]
-    identifier = "tags"
-    name = "Tags"
-    url = "/tags/"
-    weight = 30
-    pre = "<i class='fas fa-tags'></i>"
+[[menu.footer]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 30
+pre = "<i class='fas fa-tags'></i>"
 
 
 [taxonomies]
@@ -145,28 +145,27 @@ tag = "tags"
 
 [privacy]
 
-  [privacy.vimeo]
-    disabled = false
-    simple = true
+[privacy.vimeo]
+disabled = false
+simple = true
 
-  [privacy.twitter]
-    disabled = false
-    enableDNT = true
-    simple = true
+[privacy.twitter]
+disabled = false
+enableDNT = true
+simple = true
 
-  [privacy.instagram]
-    disabled = false
-    simple = true
+[privacy.instagram]
+disabled = false
+simple = true
 
-  [privacy.youtube]
-    disabled = false
-    privacyEnhanced = true
+[privacy.youtube]
+disabled = false
+privacyEnhanced = true
 
 [services]
 
-  [services.instagram]
-    disableInlineCSS = true
+[services.instagram]
+disableInlineCSS = true
 
-  [services.twitter]
-    disableInlineCSS = true
-
+[services.twitter]
+disableInlineCSS = true
