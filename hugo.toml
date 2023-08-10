@@ -1,6 +1,6 @@
 baseURL = 'https://gatewayindustrial.olympuscm.com/'
 languageCode = 'en-us'
-title = 'Gateway Small Bay Industrial - Comming Soon!'
+title = 'Gateway Small Bay Industrial - Coming Soon!'
 
 theme = 'bootstrap_bp_hugo'
 
